@@ -31,4 +31,5 @@ public class Cat {
     public void setCute(boolean cute) {
         this.cute = cute;
     }
+    /**/
 }
